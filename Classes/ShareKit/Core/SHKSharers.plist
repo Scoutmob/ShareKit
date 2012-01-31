@@ -14,18 +14,10 @@
 	</array>
 	<key>services</key>
 	<array>
-		<string>SHKEvernote</string>
 		<string>SHKTwitter</string>
-		<string>SHKPinboard</string>
-		<string>SHKGoogleReader</string>
 		<string>SHKFacebook</string>
-		<string>SHKVkontakte</string>
-		<string>SHKReadItLater</string>
-		<string>SHKInstapaper</string>
-		<string>SHKTumblr</string>
-		<string>SHKFlickr</string>
-		<string>SHKLinkedIn</string>
 		<string>SHKFoursquareV2</string>
+		<string>SHKInstagram</string>
 	</array>
 </dict>
 </plist>
