@@ -207,7 +207,7 @@ static NSString *const kSHKFacebookUserInfo =@"kSHKFacebookUserInfo";
 		[params setObject:item.title == nil ? url : item.title
 				   forKey:@"name"];    
 		if (item.text)
-			[params setObject:item.text forKey:@"message"];
+			[params setObject:item.text forKey:@"description"];
 		NSString *pictureURI = [item customValueForKey:@"picture"];
 		if (pictureURI)
 			[params setObject:pictureURI forKey:@"picture"];
